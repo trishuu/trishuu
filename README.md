@@ -14,12 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, I'm Trisha Singh</h1>
+<h3 align="center">Marketing and Branding strategist</h3>
+
+- 💬 Ask me about **Python, SQL , Java ,Tableau ,PowerBI**
+
+- 📫 How to reach me **singhtrisha58453@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
-
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/trisha-singh-661a11209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/trisha-singh-661a11209" height="30" width="40" /></a>
 <a href="https://instagram.com/trishu._19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="trishu._19" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/singhtrisha58453" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/singhtrisha58453" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/singhtrisha58453/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/singhtrisha58453/practice" height="30" width="40" /></a>
 </p>
 
