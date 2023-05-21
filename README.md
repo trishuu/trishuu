@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<img align ="right" alt ="coding" width = "400" src = "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.videoplasty.com%2Fanimation%2Fchill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg&tbnid=JdP4MsnabmB7WM&vet=12ahUKEwiy4pHQsob_AhXKk9gFHc_9AQ8QMygsegUIARCYAw..i&imgrefurl=https%3A%2F%2Fvideoplasty.com%2Fstock-animation%2Fchill-coding-programming-lofi-animation-11018&docid=mq7rkButFkx93M&w=1024&h=576&q=animated%20coding%20gif&ved=2ahUKEwiy4pHQsob_AhXKk9gFHc_9AQ8QMygsegUIARCYAw">
 
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/trisha-singh-661a11209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/trisha-singh-661a11209" height="30" width="40" /></a>
