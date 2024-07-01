@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Trisha Singh</h1>
+<h1 align="center">Welcome on Git-hub</h1>
 <h3 align="center">Enthusiast and Determined Girl</h3>
 
 - 💬 Ask me about **Python, SQL, Machine learning, Deep learning, NLP, Gen-AI, LLM, Tableau,**
