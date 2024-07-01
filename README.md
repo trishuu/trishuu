@@ -1,4 +1,4 @@
-### Hi there 👋 I am Trisha Singh
+### Introducing Trisha, a seasoned professional who has worn many hats, from engineering and data analytics to Presenting and Speaking. her approach is rooted in best practices and continuous learning, and seeking productivity in her live. My strength is to put 110% in whatever task I take up and would love to chat if my profile seems interesting to you wouldn't regret spending 15min of your time on my Git-hub. 
 
 <!--
 **trishuu/trishuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Trisha Singh</h1>
-<h3 align="center">Marketing and Branding strategist</h3>
+<h3 align="center">Enthusiast and Determined Girl</h3>
 
-- 💬 Ask me about **Python, SQL , Java ,Tableau ,PowerBI**
+- 💬 Ask me about **Python, SQL, Machine learning, Deep learning, NLP, Gen-AI, LLM, Tableau,**
 
 - 📫 How to reach me **singhtrisha58453@gmail.com**
 
