@@ -1,3 +1,4 @@
+<h1 align="center">Welcome on Git-hub</h1>
 ### My strength is to put 110% in whatever task I take up and would love to chat if my profile seems interesting to you wouldn't regret spending 15min of your time on my Git-hub. 
 
 <!--
@@ -14,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Welcome on Git-hub</h1>
+
 <h3 align="center">Enthusiast and Determined Girl</h3>
 
 - Ask me about **Python, SQL, Machine learning, Deep learning, NLP, Gen-AI, LLM, Tableau,**
