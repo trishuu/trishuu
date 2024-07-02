@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">Enthusiast and Determined Girl</h3>
 
-- Ask me about **Python, SQL, Machine learning, Deep learning, NLP, Gen-AI, LLM, Tableau,**
+- Ask me about **Python, SQL, Machine learning, Deep learning, NLP, Gen-AI, LLM, Autogen, Tableau,**
 
 - Email me **singhtrisha58453@gmail.com**
 - Read my blog **https://medium.com/@trisha_singh**
