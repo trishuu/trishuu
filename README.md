@@ -4,7 +4,6 @@
 Reach Me Out 👉 ✉️ **singhtrisha58453@gmail.com** For help in your Project or Anything Else. 😊😊
 
 - 🔭 **I Live by Principal:** Learning Over Knowledge
-- 👯 **I’m looking to collaborate on:** Your Apna Bank Software 
 - 📫 **How to reach me:** singhtrisha58453@gmail.com
 - ⚡ **Fun fact:** I Love Solving Problems and Innovation Love Me
 
