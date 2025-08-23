@@ -4,8 +4,8 @@
 Reach Me Out 👉 ✉️ **singhtrisha58453@gmail.com** For help in your Project or Anything Else. 😊😊
 
 - 🔭 **I Live by Principal:** Learning Over Knowledge
-- 📫 **How to reach me:** singhtrisha58453@gmail.com
-- ⚡ **Fun fact:** I Love Solving Problems and Innovation Love Me
+- 📫 **reach me:** singhtrisha58453@gmail.com
+- ⚡ I Love Solving Problems and Innovation Love Me
 
   ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=trishuu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
