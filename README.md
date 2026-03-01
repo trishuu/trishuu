@@ -5,8 +5,6 @@ Reach Me Out 👉 ✉️ **singhtrisha58453@gmail.com** For help in your Project
 
 - 🔭 **I Live by Principal:** Learning Over Knowledge
 
-  ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=trishuu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
   
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/trishu._19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/trisha-singh2002) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@trisha_singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhtrisha58453@gmail.com) 
